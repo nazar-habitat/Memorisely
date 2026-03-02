@@ -28,6 +28,7 @@ body {
     border-radius: 12px;
     padding: 48px 40px;
     width: 340px;
+    min-height: 420px;
     flex-shrink: 0;
 }
 
